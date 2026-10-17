@@ -1,0 +1,301 @@
+product_id,category,brand,name,tags,price
+0,Electronics,Vega,Vega Headphones,usb-c portable battery,45.24
+1,Electronics,Pico,Pico Keyboard,hd usb-c battery,119.0
+2,Electronics,Lumen,Lumen Monitor,portable gaming bluetooth,210.84
+3,Electronics,Pico,Pico Keyboard,bluetooth portable gaming,74.3
+4,Electronics,Terra,Terra Power Bank,bluetooth smart battery,221.13
+5,Electronics,Lumen,Lumen Smartwatch,smart hd usb-c,156.59
+6,Electronics,Nova,Nova Camera,portable bluetooth hd,97.93
+7,Electronics,Lumen,Lumen Monitor,usb-c gaming bluetooth,211.03
+8,Electronics,Apex,Apex Camera,gaming portable smart,174.01
+9,Electronics,Apex,Apex Keyboard,usb-c hd smart,86.03
+10,Electronics,Terra,Terra Camera,gaming battery hd,134.19
+11,Electronics,Terra,Terra Keyboard,bluetooth hd wireless,164.54
+12,Electronics,Vega,Vega Camera,bluetooth smart hd,104.58
+13,Electronics,Zenit,Zenit Camera,hd wireless portable,51.73
+14,Electronics,Vega,Vega Headphones,battery portable smart,178.42
+15,Electronics,Atlas,Atlas Camera,gaming wireless portable,109.05
+16,Electronics,Terra,Terra Power Bank,usb-c bluetooth wireless,128.86
+17,Electronics,Lumen,Lumen Speaker,portable smart wireless,164.07
+18,Electronics,Lumen,Lumen Smartwatch,hd battery gaming,99.15
+19,Electronics,Vega,Vega Headphones,usb-c smart portable,120.75
+20,Electronics,Apex,Apex Power Bank,portable gaming smart,97.11
+21,Electronics,Atlas,Atlas Smartwatch,smart portable gaming,61.94
+22,Electronics,Kora,Kora Smartwatch,usb-c gaming portable,229.78
+23,Electronics,Zenit,Zenit Speaker,bluetooth smart hd,108.29
+24,Electronics,Nova,Nova Headphones,gaming bluetooth usb-c,149.11
+25,Electronics,Terra,Terra Speaker,portable bluetooth usb-c,124.41
+26,Electronics,Vega,Vega Camera,gaming portable usb-c,106.46
+27,Electronics,Atlas,Atlas Keyboard,hd wireless portable,236.77
+28,Electronics,Orbit,Orbit Speaker,bluetooth hd portable,87.15
+29,Electronics,Zenit,Zenit Keyboard,smart hd usb-c,164.86
+30,Electronics,Nova,Nova Smartwatch,portable wireless usb-c,182.46
+31,Electronics,Zenit,Zenit Monitor,gaming portable smart,73.17
+32,Electronics,Lumen,Lumen Camera,battery bluetooth smart,88.36
+33,Electronics,Zenit,Zenit Camera,usb-c gaming wireless,110.85
+34,Electronics,Pico,Pico Smartwatch,wireless bluetooth hd,138.08
+35,Electronics,Vega,Vega Speaker,usb-c battery smart,93.49
+36,Electronics,Zenit,Zenit Power Bank,bluetooth battery wireless,79.58
+37,Electronics,Lumen,Lumen Smartwatch,gaming usb-c smart,145.47
+38,Electronics,Pico,Pico Keyboard,bluetooth hd battery,95.58
+39,Electronics,Zenit,Zenit Speaker,battery usb-c gaming,264.29
+40,Electronics,Terra,Terra Monitor,wireless bluetooth usb-c,133.91
+41,Electronics,Orbit,Orbit Smartwatch,gaming portable battery,258.62
+42,Electronics,Zenit,Zenit Smartwatch,usb-c battery wireless,284.1
+43,Electronics,Terra,Terra Headphones,wireless bluetooth hd,68.99
+44,Electronics,Orbit,Orbit Speaker,usb-c hd gaming,110.58
+45,Electronics,Kora,Kora Camera,bluetooth battery wireless,165.58
+46,Electronics,Apex,Apex Power Bank,bluetooth portable battery,77.36
+47,Electronics,Terra,Terra Keyboard,hd wireless smart,121.85
+48,Electronics,Apex,Apex Camera,portable wireless usb-c,198.12
+49,Electronics,Pico,Pico Smartwatch,battery portable gaming,84.73
+50,Fashion,Nova,Nova T-Shirt,cotton sport classic,57.55
+51,Fashion,Vega,Vega Sneakers,unisex casual leather,35.9
+52,Fashion,Terra,Terra Sunglasses,leather cotton winter,100.51
+53,Fashion,Zenit,Zenit Sneakers,classic summer sport,50.7
+54,Fashion,Atlas,Atlas Sunglasses,unisex winter classic,35.48
+55,Fashion,Apex,Apex Jeans,classic unisex cotton,159.49
+56,Fashion,Zenit,Zenit Jacket,winter classic unisex,30.62
+57,Fashion,Lumen,Lumen Sneakers,sport leather cotton,33.58
+58,Fashion,Apex,Apex Watch,classic summer winter,51.44
+59,Fashion,Lumen,Lumen Jacket,cotton casual unisex,61.77
+60,Fashion,Nova,Nova Sunglasses,leather summer unisex,65.58
+61,Fashion,Kora,Kora Jeans,cotton winter unisex,64.43
+62,Fashion,Apex,Apex T-Shirt,unisex sport winter,66.7
+63,Fashion,Zenit,Zenit T-Shirt,casual classic leather,31.54
+64,Fashion,Terra,Terra Sneakers,casual classic cotton,87.45
+65,Fashion,Terra,Terra Sneakers,unisex sport winter,62.75
+66,Fashion,Atlas,Atlas Backpack,unisex winter cotton,59.36
+67,Fashion,Kora,Kora T-Shirt,classic winter cotton,60.07
+68,Fashion,Zenit,Zenit Jacket,cotton casual classic,130.45
+69,Fashion,Orbit,Orbit Jeans,cotton leather unisex,53.34
+70,Fashion,Atlas,Atlas Jacket,sport leather classic,130.78
+71,Fashion,Vega,Vega Watch,sport cotton summer,68.5
+72,Fashion,Terra,Terra Jacket,unisex cotton classic,90.21
+73,Fashion,Nova,Nova Jeans,sport winter summer,56.97
+74,Fashion,Atlas,Atlas Watch,cotton casual summer,25.06
+75,Fashion,Vega,Vega Sneakers,unisex classic casual,117.09
+76,Fashion,Vega,Vega T-Shirt,classic winter unisex,29.94
+77,Fashion,Nova,Nova Jacket,cotton summer casual,98.0
+78,Fashion,Pico,Pico Sneakers,leather winter cotton,67.65
+79,Fashion,Pico,Pico Sunglasses,summer sport leather,73.91
+80,Fashion,Apex,Apex Sunglasses,summer cotton casual,41.34
+81,Fashion,Zenit,Zenit Jeans,summer winter leather,61.84
+82,Fashion,Zenit,Zenit Backpack,leather unisex summer,66.62
+83,Fashion,Nova,Nova Jacket,cotton winter unisex,115.36
+84,Fashion,Pico,Pico Jacket,winter classic leather,55.32
+85,Fashion,Atlas,Atlas T-Shirt,winter casual unisex,72.56
+86,Fashion,Terra,Terra Jacket,summer casual winter,43.75
+87,Fashion,Pico,Pico Backpack,casual classic cotton,29.42
+88,Fashion,Lumen,Lumen Watch,casual cotton sport,63.15
+89,Fashion,Pico,Pico Watch,unisex leather casual,43.44
+90,Fashion,Terra,Terra Sunglasses,classic casual winter,58.94
+91,Fashion,Atlas,Atlas Backpack,summer casual unisex,38.67
+92,Fashion,Apex,Apex T-Shirt,classic unisex winter,71.37
+93,Fashion,Kora,Kora Watch,classic unisex casual,20.3
+94,Fashion,Terra,Terra Watch,sport winter leather,80.0
+95,Fashion,Kora,Kora Sneakers,winter casual classic,106.82
+96,Fashion,Nova,Nova T-Shirt,casual sport leather,108.22
+97,Fashion,Pico,Pico T-Shirt,classic cotton casual,26.23
+98,Fashion,Apex,Apex Sneakers,casual sport unisex,27.56
+99,Fashion,Pico,Pico Watch,classic summer casual,51.51
+100,Home,Vega,Vega Blender,modern cozy smart,41.0
+101,Home,Pico,Pico Coffee Maker,energy-saving compact smart,82.5
+102,Home,Apex,Apex Blender,energy-saving steel cozy,119.36
+103,Home,Zenit,Zenit Pillow,energy-saving modern compact,65.56
+104,Home,Lumen,Lumen Pillow,cozy compact led,75.84
+105,Home,Nova,Nova Lamp,cozy steel compact,69.1
+106,Home,Lumen,Lumen Kettle,energy-saving smart kitchen,40.04
+107,Home,Kora,Kora Pillow,compact kitchen smart,121.69
+108,Home,Pico,Pico Lamp,smart compact steel,76.8
+109,Home,Atlas,Atlas Pillow,cozy modern energy-saving,39.55
+110,Home,Atlas,Atlas Blender,compact modern smart,73.28
+111,Home,Apex,Apex Air Fryer,led energy-saving steel,47.41
+112,Home,Orbit,Orbit Coffee Maker,modern compact led,97.64
+113,Home,Terra,Terra Lamp,energy-saving kitchen led,87.84
+114,Home,Apex,Apex Blender,steel smart kitchen,25.87
+115,Home,Vega,Vega Lamp,smart led modern,48.85
+116,Home,Apex,Apex Pillow,smart compact steel,87.0
+117,Home,Lumen,Lumen Kettle,modern led cozy,60.33
+118,Home,Atlas,Atlas Kettle,led kitchen smart,97.77
+119,Home,Vega,Vega Blender,kitchen smart energy-saving,43.1
+120,Home,Terra,Terra Coffee Maker,led energy-saving steel,56.11
+121,Home,Orbit,Orbit Blender,led energy-saving kitchen,153.06
+122,Home,Apex,Apex Kettle,cozy energy-saving modern,32.0
+123,Home,Apex,Apex Lamp,cozy energy-saving compact,21.14
+124,Home,Nova,Nova Lamp,cozy energy-saving modern,64.0
+125,Home,Lumen,Lumen Pillow,energy-saving steel led,42.28
+126,Home,Pico,Pico Air Fryer,smart led modern,81.18
+127,Home,Atlas,Atlas Blender,led steel smart,48.03
+128,Home,Terra,Terra Lamp,smart steel energy-saving,44.88
+129,Home,Nova,Nova Blender,smart modern energy-saving,47.74
+130,Home,Orbit,Orbit Lamp,smart energy-saving cozy,92.08
+131,Home,Lumen,Lumen Kettle,steel cozy kitchen,79.8
+132,Home,Vega,Vega Coffee Maker,compact steel led,130.64
+133,Home,Kora,Kora Pillow,steel modern energy-saving,39.26
+134,Home,Vega,Vega Pillow,kitchen energy-saving smart,38.87
+135,Home,Atlas,Atlas Air Fryer,compact led energy-saving,37.99
+136,Home,Zenit,Zenit Coffee Maker,steel led modern,30.65
+137,Home,Zenit,Zenit Vacuum,compact kitchen energy-saving,105.09
+138,Home,Lumen,Lumen Kettle,modern cozy energy-saving,132.39
+139,Home,Zenit,Zenit Air Fryer,modern energy-saving compact,102.51
+140,Home,Nova,Nova Coffee Maker,smart modern kitchen,78.74
+141,Home,Vega,Vega Lamp,modern energy-saving steel,36.86
+142,Home,Terra,Terra Vacuum,kitchen modern smart,56.16
+143,Home,Lumen,Lumen Pillow,steel energy-saving kitchen,88.59
+144,Home,Lumen,Lumen Air Fryer,energy-saving steel modern,20.95
+145,Home,Pico,Pico Coffee Maker,led smart energy-saving,26.58
+146,Home,Orbit,Orbit Blender,kitchen cozy steel,93.53
+147,Home,Atlas,Atlas Coffee Maker,smart led compact,195.36
+148,Home,Zenit,Zenit Pillow,smart modern steel,29.46
+149,Home,Nova,Nova Pillow,compact modern smart,64.16
+150,Books,Orbit,Orbit Novel,learning new bestseller,11.66
+151,Books,Kora,Kora Novel,learning classic new,7.72
+152,Books,Vega,Vega Comic,new award classic,7.67
+153,Books,Pico,Pico Comic,award new fiction,4.99
+154,Books,Pico,Pico Cookbook,bestseller illustrated classic,27.34
+155,Books,Apex,Apex Cookbook,learning new bestseller,22.21
+156,Books,Vega,Vega Cookbook,classic award hardcover,33.66
+157,Books,Pico,Pico Sci-Fi,illustrated fiction new,14.48
+158,Books,Apex,Apex Sci-Fi,classic learning fiction,14.56
+159,Books,Vega,Vega History Book,new award classic,5.84
+160,Books,Apex,Apex Self-Help,award bestseller fiction,11.39
+161,Books,Zenit,Zenit Novel,hardcover learning classic,10.75
+162,Books,Orbit,Orbit History Book,bestseller illustrated award,23.8
+163,Books,Lumen,Lumen Cookbook,fiction classic learning,25.56
+164,Books,Terra,Terra Biography,award bestseller new,8.24
+165,Books,Lumen,Lumen Sci-Fi,learning new classic,17.15
+166,Books,Orbit,Orbit Cookbook,classic award fiction,37.37
+167,Books,Vega,Vega History Book,award fiction new,10.28
+168,Books,Vega,Vega Comic,new illustrated fiction,20.69
+169,Books,Nova,Nova Novel,new bestseller fiction,8.01
+170,Books,Atlas,Atlas History Book,bestseller learning fiction,7.1
+171,Books,Lumen,Lumen History Book,bestseller new fiction,23.3
+172,Books,Vega,Vega Comic,new learning hardcover,10.84
+173,Books,Kora,Kora Comic,new award classic,11.36
+174,Books,Orbit,Orbit Cookbook,bestseller classic hardcover,24.73
+175,Books,Atlas,Atlas Cookbook,hardcover fiction bestseller,7.38
+176,Books,Nova,Nova Biography,illustrated fiction hardcover,42.73
+177,Books,Terra,Terra History Book,award bestseller fiction,18.11
+178,Books,Apex,Apex Self-Help,bestseller new illustrated,9.38
+179,Books,Zenit,Zenit Sci-Fi,bestseller award new,28.15
+180,Books,Apex,Apex Biography,new classic bestseller,10.48
+181,Books,Apex,Apex Sci-Fi,fiction bestseller hardcover,23.24
+182,Books,Atlas,Atlas Biography,new fiction hardcover,30.57
+183,Books,Terra,Terra History Book,hardcover learning new,10.47
+184,Books,Orbit,Orbit Sci-Fi,illustrated new award,16.85
+185,Books,Vega,Vega Sci-Fi,hardcover fiction classic,16.27
+186,Books,Vega,Vega Novel,learning award classic,21.03
+187,Books,Atlas,Atlas Novel,hardcover learning fiction,10.18
+188,Books,Apex,Apex Cookbook,illustrated fiction award,10.07
+189,Books,Orbit,Orbit Comic,learning hardcover new,18.28
+190,Books,Pico,Pico Biography,bestseller hardcover award,39.29
+191,Books,Lumen,Lumen Self-Help,bestseller hardcover award,11.51
+192,Books,Nova,Nova Sci-Fi,fiction bestseller classic,46.66
+193,Books,Kora,Kora Novel,learning hardcover award,19.22
+194,Books,Orbit,Orbit History Book,award learning illustrated,29.22
+195,Books,Pico,Pico Biography,classic award hardcover,18.28
+196,Books,Orbit,Orbit Biography,bestseller learning illustrated,6.83
+197,Books,Nova,Nova History Book,new fiction hardcover,17.48
+198,Books,Terra,Terra History Book,classic fiction learning,14.69
+199,Books,Nova,Nova Cookbook,classic award learning,10.87
+200,Sports,Kora,Kora Yoga Mat,fitness waterproof training,44.72
+201,Sports,Apex,Apex Yoga Mat,durable lightweight fitness,50.37
+202,Sports,Kora,Kora Yoga Mat,pro durable lightweight,51.99
+203,Sports,Kora,Kora Yoga Mat,training fitness durable,19.2
+204,Sports,Atlas,Atlas Water Bottle,pro training lightweight,38.51
+205,Sports,Apex,Apex Dumbbells,waterproof training lightweight,57.17
+206,Sports,Orbit,Orbit Water Bottle,lightweight waterproof outdoor,99.56
+207,Sports,Atlas,Atlas Water Bottle,outdoor lightweight waterproof,23.76
+208,Sports,Zenit,Zenit Running Shoes,training waterproof fitness,59.41
+209,Sports,Apex,Apex Running Shoes,waterproof durable fitness,92.28
+210,Sports,Pico,Pico Bike Helmet,fitness lightweight training,29.17
+211,Sports,Nova,Nova Dumbbells,durable outdoor waterproof,115.32
+212,Sports,Pico,Pico Bike Helmet,durable lightweight pro,45.14
+213,Sports,Apex,Apex Yoga Mat,waterproof outdoor pro,52.53
+214,Sports,Pico,Pico Running Shoes,team fitness waterproof,69.38
+215,Sports,Apex,Apex Yoga Mat,waterproof outdoor lightweight,82.01
+216,Sports,Lumen,Lumen Ball,waterproof durable pro,54.49
+217,Sports,Terra,Terra Ball,lightweight training pro,57.14
+218,Sports,Orbit,Orbit Tent,team pro outdoor,138.12
+219,Sports,Nova,Nova Water Bottle,durable training team,48.05
+220,Sports,Lumen,Lumen Bike Helmet,durable training fitness,39.6
+221,Sports,Terra,Terra Ball,lightweight outdoor pro,39.07
+222,Sports,Atlas,Atlas Water Bottle,lightweight durable fitness,26.73
+223,Sports,Vega,Vega Running Shoes,lightweight waterproof durable,56.18
+224,Sports,Kora,Kora Tent,lightweight training pro,54.26
+225,Sports,Pico,Pico Tent,pro durable outdoor,38.68
+226,Sports,Atlas,Atlas Water Bottle,fitness lightweight team,86.84
+227,Sports,Orbit,Orbit Running Shoes,training durable lightweight,47.81
+228,Sports,Kora,Kora Water Bottle,team fitness lightweight,36.58
+229,Sports,Lumen,Lumen Running Shoes,fitness lightweight team,62.91
+230,Sports,Atlas,Atlas Yoga Mat,lightweight durable training,92.56
+231,Sports,Apex,Apex Running Shoes,durable training team,27.01
+232,Sports,Apex,Apex Dumbbells,fitness durable waterproof,53.34
+233,Sports,Kora,Kora Dumbbells,waterproof durable fitness,15.68
+234,Sports,Kora,Kora Water Bottle,training waterproof pro,75.9
+235,Sports,Vega,Vega Tent,waterproof team pro,57.35
+236,Sports,Lumen,Lumen Bike Helmet,team training durable,67.32
+237,Sports,Terra,Terra Bike Helmet,waterproof lightweight team,63.81
+238,Sports,Atlas,Atlas Bike Helmet,lightweight durable training,59.02
+239,Sports,Orbit,Orbit Ball,team durable waterproof,40.63
+240,Sports,Vega,Vega Dumbbells,outdoor waterproof pro,48.5
+241,Sports,Atlas,Atlas Dumbbells,fitness team lightweight,41.67
+242,Sports,Zenit,Zenit Running Shoes,pro waterproof lightweight,43.66
+243,Sports,Nova,Nova Dumbbells,durable pro lightweight,43.29
+244,Sports,Vega,Vega Tent,team pro outdoor,28.51
+245,Sports,Kora,Kora Ball,outdoor pro durable,33.56
+246,Sports,Kora,Kora Running Shoes,team outdoor pro,46.41
+247,Sports,Lumen,Lumen Water Bottle,team waterproof fitness,20.8
+248,Sports,Apex,Apex Tent,training outdoor lightweight,66.96
+249,Sports,Vega,Vega Bike Helmet,team outdoor pro,43.52
+250,Beauty,Nova,Nova Perfume,travel daily organic,52.79
+251,Beauty,Apex,Apex Shampoo,luxury organic vegan,17.33
+252,Beauty,Vega,Vega Shampoo,daily travel natural,45.66
+253,Beauty,Zenit,Zenit Shampoo,travel spf daily,26.6
+254,Beauty,Apex,Apex Face Cream,spf natural sensitive,35.77
+255,Beauty,Zenit,Zenit Face Cream,sensitive natural organic,20.62
+256,Beauty,Vega,Vega Shaver,organic luxury spf,28.56
+257,Beauty,Nova,Nova Shaver,natural spf organic,26.3
+258,Beauty,Terra,Terra Lipstick,organic sensitive spf,30.94
+259,Beauty,Orbit,Orbit Shaver,daily natural vegan,70.85
+260,Beauty,Orbit,Orbit Shampoo,travel vegan luxury,42.36
+261,Beauty,Vega,Vega Shaver,luxury vegan organic,50.21
+262,Beauty,Orbit,Orbit Perfume,natural spf daily,42.53
+263,Beauty,Kora,Kora Hair Dryer,luxury vegan natural,8.81
+264,Beauty,Apex,Apex Lipstick,sensitive natural vegan,14.12
+265,Beauty,Nova,Nova Shampoo,sensitive daily travel,73.85
+266,Beauty,Nova,Nova Lipstick,natural sensitive organic,28.3
+267,Beauty,Zenit,Zenit Lipstick,spf vegan luxury,20.5
+268,Beauty,Orbit,Orbit Face Cream,natural daily vegan,46.0
+269,Beauty,Atlas,Atlas Shampoo,organic daily travel,15.07
+270,Beauty,Terra,Terra Hair Dryer,natural spf daily,64.53
+271,Beauty,Terra,Terra Sun Lotion,natural luxury travel,78.89
+272,Beauty,Pico,Pico Lipstick,vegan luxury natural,17.67
+273,Beauty,Lumen,Lumen Face Cream,sensitive vegan organic,28.5
+274,Beauty,Terra,Terra Hair Dryer,natural vegan luxury,93.88
+275,Beauty,Orbit,Orbit Perfume,daily vegan spf,27.34
+276,Beauty,Kora,Kora Perfume,organic spf daily,9.74
+277,Beauty,Lumen,Lumen Perfume,organic vegan spf,57.2
+278,Beauty,Pico,Pico Hair Dryer,spf sensitive organic,43.19
+279,Beauty,Lumen,Lumen Shampoo,travel organic daily,22.79
+280,Beauty,Kora,Kora Shaver,daily vegan sensitive,31.33
+281,Beauty,Terra,Terra Sun Lotion,daily luxury travel,39.9
+282,Beauty,Apex,Apex Face Cream,organic travel spf,69.62
+283,Beauty,Atlas,Atlas Hair Dryer,luxury sensitive natural,24.41
+284,Beauty,Kora,Kora Shaver,luxury spf daily,64.05
+285,Beauty,Orbit,Orbit Lipstick,luxury travel spf,21.91
+286,Beauty,Orbit,Orbit Sun Lotion,luxury daily organic,49.45
+287,Beauty,Kora,Kora Face Cream,luxury spf vegan,29.27
+288,Beauty,Zenit,Zenit Lipstick,travel sensitive natural,40.37
+289,Beauty,Kora,Kora Hair Dryer,daily organic natural,36.15
+290,Beauty,Pico,Pico Sun Lotion,daily organic travel,35.98
+291,Beauty,Nova,Nova Hair Dryer,travel luxury organic,10.96
+292,Beauty,Lumen,Lumen Face Cream,luxury organic daily,29.65
+293,Beauty,Kora,Kora Shampoo,travel daily luxury,24.09
+294,Beauty,Vega,Vega Lipstick,vegan organic sensitive,13.65
+295,Beauty,Vega,Vega Sun Lotion,travel spf vegan,30.81
+296,Beauty,Orbit,Orbit Hair Dryer,organic spf sensitive,26.46
+297,Beauty,Atlas,Atlas Lipstick,spf travel daily,7.48
+298,Beauty,Lumen,Lumen Perfume,spf organic natural,36.71
+299,Beauty,Vega,Vega Shaver,travel spf vegan,36.21
