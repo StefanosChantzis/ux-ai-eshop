@@ -28,11 +28,11 @@ def ndcg(hits, n_relevant):
     return dcg / ideal if ideal else 0.0
 
 
-def evaluate(products, R, k=K, seed=0, *, return_details=False):
+def evaluate(products, R, k=K, seed=0, *, return_details=False, models=None):
     train, test = split(R, seed)
     users = np.where(test.any(axis=1))[0]
     out, details = [], []
-    for model in all_models():
+    for model in (all_models() if models is None else models):
         model.fit(products, train)
         prec, rec, nd, seen = [], [], [], set()
         for u in users:
